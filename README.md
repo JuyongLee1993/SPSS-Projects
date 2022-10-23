@@ -1,6 +1,6 @@
 # 🚀Juyong's SPSS projects repository🚀
 
-<img src="https://logodix.com/logo/1598584.png" alt="fdsa" width="10%" height="10%" ALIGN="right">
+<img src="https://logodix.com/logo/1598584.png" alt="fdsa" width="15%" height="15%" ALIGN="right">
 
 Hi guy👋 Thank you for your visiting!
 
